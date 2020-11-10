@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7c9ceec.chunk.css",
+    "main.js": "/static/js/main.f87444fb.chunk.js",
+    "main.js.map": "/static/js/main.f87444fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac964b68.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac964b68.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.9b220ff9.chunk.js": "/static/js/2.9b220ff9.chunk.js",
+    "static/js/2.9b220ff9.chunk.js.map": "/static/js/2.9b220ff9.chunk.js.map",
+    "static/js/3.f4f7407a.chunk.js": "/static/js/3.f4f7407a.chunk.js",
+    "static/js/3.f4f7407a.chunk.js.map": "/static/js/3.f4f7407a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.f7c9ceec.chunk.css.map": "/static/css/main.f7c9ceec.chunk.css.map",
+    "static/js/2.9b220ff9.chunk.js.LICENSE.txt": "/static/js/2.9b220ff9.chunk.js.LICENSE.txt",
+    "static/media/angular.367d4f3d.png": "/static/media/angular.367d4f3d.png",
+    "static/media/index.scss": "/static/media/ionicons.e9f4c425.ttf",
+    "static/media/js.e35fa00e.png": "/static/media/js.e35fa00e.png",
+    "static/media/ngrx.b49f3c62.png": "/static/media/ngrx.b49f3c62.png",
+    "static/media/node.a8c363ae.png": "/static/media/node.a8c363ae.png",
+    "static/media/react.ef20e673.png": "/static/media/react.ef20e673.png",
+    "static/media/redux.4516fe25.jpg": "/static/media/redux.4516fe25.jpg",
+    "static/media/vue.17c4554a.jpeg": "/static/media/vue.17c4554a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac964b68.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.9b220ff9.chunk.js",
+    "static/css/main.f7c9ceec.chunk.css",
+    "static/js/main.f87444fb.chunk.js"
+  ]
+}
